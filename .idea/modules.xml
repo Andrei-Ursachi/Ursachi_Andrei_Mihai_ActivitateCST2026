@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruBuilder/lucruBuilder.iml" filepath="$PROJECT_DIR$/lucruBuilder/lucruBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" filepath="$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" />
     </modules>
   </component>
 </project>
