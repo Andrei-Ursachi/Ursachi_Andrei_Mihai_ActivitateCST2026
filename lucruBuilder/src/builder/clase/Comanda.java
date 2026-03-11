@@ -6,7 +6,7 @@ public class Comanda {
     private String denumireShaorma;
     private String tipCarne;
     private float greutate;
-
+    //constructor cu toti parametri
     public Comanda(boolean cuSos, boolean cuCartofi, String denumireShaorma, String tipCarne, float greutate) {
         this.cuSos = cuSos;
         this.cuCartofi = cuCartofi;
@@ -14,7 +14,7 @@ public class Comanda {
         this.tipCarne = tipCarne;
         this.greutate = greutate;
     }
-
+    //constructor fara parametri
     public Comanda() {
         this.cuSos = false;
         this.cuCartofi = false;
@@ -22,7 +22,7 @@ public class Comanda {
         this.tipCarne = "vita";
         this.greutate = 700;
     }
-
+    //setteri pt toate atributele
     public void setCuSos(boolean cuSos) {
         this.cuSos = cuSos;
     }
@@ -42,7 +42,7 @@ public class Comanda {
     public void setGreutate(float greutate) {
         this.greutate = greutate;
     }
-
+    //generate tostring
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Comanda{");

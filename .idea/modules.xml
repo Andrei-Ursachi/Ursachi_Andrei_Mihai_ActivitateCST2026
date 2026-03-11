@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" filepath="$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruSingleton/lucruSingleton.iml" filepath="$PROJECT_DIR$/lucruSingleton/lucruSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruSingleton2/lucruSingleton2.iml" filepath="$PROJECT_DIR$/lucruSingleton2/lucruSingleton2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucruSingleton3/lucruSingleton3.iml" filepath="$PROJECT_DIR$/lucruSingleton3/lucruSingleton3.iml" />
     </modules>
   </component>
 </project>
