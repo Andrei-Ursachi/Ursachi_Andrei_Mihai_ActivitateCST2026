@@ -6,7 +6,7 @@ import builder.clase.abordareNoua.ComandaBuilder;
 public class Main {
     public static void main(String[] args) {
         Comanda comanda1 = new Comanda(true, true, "Exotica", "pui", 500);
-
+        System.out.println(comanda1);
         Comanda comanda2 = new Comanda();
         comanda2.setCuCartofi(true);
         comanda2.setCuSos(false);
