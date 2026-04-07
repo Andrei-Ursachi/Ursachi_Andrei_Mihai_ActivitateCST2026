@@ -9,12 +9,12 @@ public class DecoratorBauturiAlcoolice extends DecoratorComandaMancare {
     }
 
     @Override
-    String getProduseComanda() {
+    public String getProduseComanda() {
         return super.getProduseComanda() + " rom" + this.nrSticle;
     }
 
     @Override
-    int getPret() {
+    public int getPret() {
         return super.getPret() + 70;
     }
 }

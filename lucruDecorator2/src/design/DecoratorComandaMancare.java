@@ -8,12 +8,12 @@ public abstract class DecoratorComandaMancare extends ComandaMancare{
         this.comanda1 = comanda1;
     }
 
-    String getProduseComanda(){
+    public String getProduseComanda(){
         return comanda1.getProduseComanda();
     }
 
     @Override
-    int getPret() {
+    public int getPret() {
         return comanda1.getPret();
     }
 }
