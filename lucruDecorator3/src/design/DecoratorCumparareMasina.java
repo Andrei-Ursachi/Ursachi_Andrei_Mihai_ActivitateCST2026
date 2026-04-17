@@ -15,7 +15,7 @@ public abstract class DecoratorCumparareMasina extends CumparareMasina{
     }
 
     @Override
-    public int nrDotari() {
-        return masina1.nrDotari();
+    public int getNrDotari() {
+        return masina1.getNrDotari();
     }
 }

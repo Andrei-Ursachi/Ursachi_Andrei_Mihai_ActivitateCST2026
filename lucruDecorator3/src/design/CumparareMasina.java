@@ -2,5 +2,5 @@ package design;
 
 public abstract class CumparareMasina {
     public abstract String getModelMasina();
-    public abstract int nrDotari();
+    public abstract int getNrDotari();
 }
