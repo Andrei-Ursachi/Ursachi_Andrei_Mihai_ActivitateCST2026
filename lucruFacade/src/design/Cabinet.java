@@ -8,8 +8,21 @@ public class Cabinet {
     private List<Integer> nrScauneLibere;
     private List<Integer> nrScauneOcupate;
 
-    //constructor cu generate
+    public void verificareScaun(int nrScaun){
+        for(int scaun: nrScauneLibere){
+            if(scaun==nrScaun){
+                System.out.println("Scaun liber!");
+                nrScauneOcupate.add(nrScaun);
+            }
+        }
+        for(int scaunOcupat:nrScauneOcupate){
+            if(scaunOcupat==nrScaun){
+                System.out.println("Scaunul de intervenitie ocupat!");
+            }
+        }
+    }
 
+    //constructor cu generate
     public Cabinet(String numeCabinet, List<Integer> nrScauneLibere, List<Integer> nrScauneOcupate) {
         this.numeCabinet = numeCabinet;
         this.nrScauneLibere = nrScauneLibere;
@@ -18,7 +31,6 @@ public class Cabinet {
 
 
     //toString cu generate
-
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Cabinet{");

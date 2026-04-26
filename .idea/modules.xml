@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/lucruDecorator/lucruDecorator.iml" filepath="$PROJECT_DIR$/lucruDecorator/lucruDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruDecorator2/lucruDecorator2.iml" filepath="$PROJECT_DIR$/lucruDecorator2/lucruDecorator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruDecorator3/lucruDecorator3.iml" filepath="$PROJECT_DIR$/lucruDecorator3/lucruDecorator3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucruFacade/lucruFacade.iml" filepath="$PROJECT_DIR$/lucruFacade/lucruFacade.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruFactory/lucruFactory.iml" filepath="$PROJECT_DIR$/lucruFactory/lucruFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" filepath="$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruPrototype2/lucruPrototype2.iml" filepath="$PROJECT_DIR$/lucruPrototype2/lucruPrototype2.iml" />
