@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruBuilder/lucruBuilder.iml" filepath="$PROJECT_DIR$/lucruBuilder/lucruBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucruComposite/lucruComposite.iml" filepath="$PROJECT_DIR$/lucruComposite/lucruComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruDecorator/lucruDecorator.iml" filepath="$PROJECT_DIR$/lucruDecorator/lucruDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruDecorator2/lucruDecorator2.iml" filepath="$PROJECT_DIR$/lucruDecorator2/lucruDecorator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lucruDecorator3/lucruDecorator3.iml" filepath="$PROJECT_DIR$/lucruDecorator3/lucruDecorator3.iml" />
