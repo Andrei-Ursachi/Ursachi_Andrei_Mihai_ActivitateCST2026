@@ -7,6 +7,7 @@ public class CategorieCopil implements Categorie{
         this.nume = nume;
     }
 
+    //metode de override apar dupa ce fac implements la interfata
     @Override
     public void adaugaNod(Categorie nod) throws Exception {
         throw new Exception("Este nod copil");
@@ -24,6 +25,7 @@ public class CategorieCopil implements Categorie{
         throw new Exception("Este nod copil");
     }
 
+    //de folosit un atribut de indentare pe care sa-l apelez inainte de obiect
     @Override
     public void descriere(String indent) {
         System.out.println(indent + "Obiect: " +this.nume);

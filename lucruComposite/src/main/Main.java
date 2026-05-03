@@ -6,6 +6,7 @@ import design.CategorieCopil;
 
 public class Main {
     public static void main(String[] args) throws Exception {
+        //la composite trebuie sa gandesc ca o scare ierarhica si sa pun elementele copil in elementele parinte
         Categorie nodComposite1 = new CategorieComposite("Curse");
         Categorie nodComposite2 = new CategorieComposite("Curse cu motociclete");
         Categorie nodComposite3 = new CategorieComposite("Curse cu masini");
