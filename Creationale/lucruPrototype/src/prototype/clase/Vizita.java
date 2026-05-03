@@ -1,7 +1,5 @@
 package prototype.clase;
 
-import javax.naming.NameNotFoundException;
-
 public class Vizita implements Prototype{
     private String nume;
     private int ziVizita;

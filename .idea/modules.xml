@@ -3,22 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruBuilder/lucruBuilder.iml" filepath="$PROJECT_DIR$/lucruBuilder/lucruBuilder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruComposite/lucruComposite.iml" filepath="$PROJECT_DIR$/lucruComposite/lucruComposite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruDecorator/lucruDecorator.iml" filepath="$PROJECT_DIR$/lucruDecorator/lucruDecorator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruDecorator2/lucruDecorator2.iml" filepath="$PROJECT_DIR$/lucruDecorator2/lucruDecorator2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruDecorator3/lucruDecorator3.iml" filepath="$PROJECT_DIR$/lucruDecorator3/lucruDecorator3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruFacade/lucruFacade.iml" filepath="$PROJECT_DIR$/lucruFacade/lucruFacade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruFactory/lucruFactory.iml" filepath="$PROJECT_DIR$/lucruFactory/lucruFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruFlyweight/lucruFlyweight.iml" filepath="$PROJECT_DIR$/lucruFlyweight/lucruFlyweight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" filepath="$PROJECT_DIR$/lucruPrototype/lucruPrototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruPrototype2/lucruPrototype2.iml" filepath="$PROJECT_DIR$/lucruPrototype2/lucruPrototype2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruProxy/lucruProxy.iml" filepath="$PROJECT_DIR$/lucruProxy/lucruProxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruSingleton/lucruSingleton.iml" filepath="$PROJECT_DIR$/lucruSingleton/lucruSingleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruSingleton2/lucruSingleton2.iml" filepath="$PROJECT_DIR$/lucruSingleton2/lucruSingleton2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruSingleton3/lucruSingleton3.iml" filepath="$PROJECT_DIR$/lucruSingleton3/lucruSingleton3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruSingleton4/lucruSingleton4.iml" filepath="$PROJECT_DIR$/lucruSingleton4/lucruSingleton4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lucruSingleton5/lucruSingleton5.iml" filepath="$PROJECT_DIR$/lucruSingleton5/lucruSingleton5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruAdapter/lucruAdapter.iml" filepath="$PROJECT_DIR$/Structurale/lucruAdapter/lucruAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruBuilder/lucruBuilder.iml" filepath="$PROJECT_DIR$/Creationale/lucruBuilder/lucruBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruComposite/lucruComposite.iml" filepath="$PROJECT_DIR$/Structurale/lucruComposite/lucruComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruDecorator/lucruDecorator.iml" filepath="$PROJECT_DIR$/Structurale/lucruDecorator/lucruDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruDecorator2/lucruDecorator2.iml" filepath="$PROJECT_DIR$/Structurale/lucruDecorator2/lucruDecorator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruDecorator3/lucruDecorator3.iml" filepath="$PROJECT_DIR$/Structurale/lucruDecorator3/lucruDecorator3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruFacade/lucruFacade.iml" filepath="$PROJECT_DIR$/Structurale/lucruFacade/lucruFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruFactory/lucruFactory.iml" filepath="$PROJECT_DIR$/Creationale/lucruFactory/lucruFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruFlyweight/lucruFlyweight.iml" filepath="$PROJECT_DIR$/Structurale/lucruFlyweight/lucruFlyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruPrototype/lucruPrototype.iml" filepath="$PROJECT_DIR$/Creationale/lucruPrototype/lucruPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruPrototype2/lucruPrototype2.iml" filepath="$PROJECT_DIR$/Creationale/lucruPrototype2/lucruPrototype2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruProxy/lucruProxy.iml" filepath="$PROJECT_DIR$/Structurale/lucruProxy/lucruProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton/lucruSingleton.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton/lucruSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton2/lucruSingleton2.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton2/lucruSingleton2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton3/lucruSingleton3.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton3/lucruSingleton3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton4/lucruSingleton4.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton4/lucruSingleton4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton5/lucruSingleton5.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton5/lucruSingleton5.iml" />
     </modules>
   </component>
 </project>
