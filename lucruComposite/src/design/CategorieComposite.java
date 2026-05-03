@@ -29,10 +29,10 @@ public class CategorieComposite implements Categorie{
     }
 
     @Override
-    public void descriere() {
-        System.out.println("Categori: "+this.numeNodComposite);
+    public void descriere(String indent) {
+        System.out.println(indent + "Categorie: "+this.numeNodComposite);
         for (Categorie elem:listaCategorii){
-            elem.descriere();
+            elem.descriere(indent + " ");
         }
     }
 }

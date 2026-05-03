@@ -25,7 +25,7 @@ public class CategorieCopil implements Categorie{
     }
 
     @Override
-    public void descriere() {
-        System.out.println("Obiect: " +this.nume);
+    public void descriere(String indent) {
+        System.out.println(indent + "Obiect: " +this.nume);
     }
 }
