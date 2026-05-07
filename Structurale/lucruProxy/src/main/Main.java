@@ -6,7 +6,7 @@ import design.ProxyOferta;
 
 public class Main {
     public static void main(String[] args) {
-        Client client1 = new Client("Mihai", 66);
+        Client client1 = new Client("Mihai", 27);
         Oferta oferta = new Oferta(5000, 22, " vacanta italia", client1);
 
         ProxyOferta proxyOferta = new ProxyOferta(oferta);

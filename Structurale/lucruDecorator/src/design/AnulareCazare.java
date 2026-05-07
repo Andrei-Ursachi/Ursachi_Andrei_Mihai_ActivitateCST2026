@@ -1,5 +1,6 @@
 package design;
 
+//neaparat clasa abstracta
 public abstract class AnulareCazare implements InterfaceCazare{
     private InterfaceCazare cazare;
     @Override

@@ -4,6 +4,7 @@ public class ColetLivrareAdapter implements IColet{
     //clasa adapter o sa ia mereu un obiect din proiectul nou, in cazul de fata metoda de livrare
     private IMetodaLivrare metodaLivrare;
 
+    //generate constructor
     public ColetLivrareAdapter(IMetodaLivrare metodaLivrare) {
         this.metodaLivrare = metodaLivrare;
     }

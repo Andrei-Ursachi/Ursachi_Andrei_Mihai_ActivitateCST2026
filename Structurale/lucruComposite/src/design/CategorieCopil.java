@@ -3,6 +3,7 @@ package design;
 public class CategorieCopil implements Categorie{
     private String nume;
 
+    //generate constructor
     public CategorieCopil(String nume) {
         this.nume = nume;
     }

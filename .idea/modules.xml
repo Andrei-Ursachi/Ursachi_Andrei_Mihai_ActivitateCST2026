@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Ursachi_Andrei_Mihai_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruAdapter/lucruAdapter.iml" filepath="$PROJECT_DIR$/Structurale/lucruAdapter/lucruAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structurale/lucruAdapter2/lucruAdapter2.iml" filepath="$PROJECT_DIR$/Structurale/lucruAdapter2/lucruAdapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruBuilder/lucruBuilder.iml" filepath="$PROJECT_DIR$/Creationale/lucruBuilder/lucruBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruComposite/lucruComposite.iml" filepath="$PROJECT_DIR$/Structurale/lucruComposite/lucruComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruDecorator/lucruDecorator.iml" filepath="$PROJECT_DIR$/Structurale/lucruDecorator/lucruDecorator.iml" />
@@ -20,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton3/lucruSingleton3.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton3/lucruSingleton3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton4/lucruSingleton4.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton4/lucruSingleton4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruSingleton5/lucruSingleton5.iml" filepath="$PROJECT_DIR$/Creationale/lucruSingleton5/lucruSingleton5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentale/lucruStrategy/lucruStrategy.iml" filepath="$PROJECT_DIR$/Comportamentale/lucruStrategy/lucruStrategy.iml" />
     </modules>
   </component>
 </project>

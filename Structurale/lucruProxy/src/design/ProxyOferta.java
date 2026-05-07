@@ -3,6 +3,7 @@ package design;
 public class ProxyOferta implements IOferta{
     private Oferta oferta;
 
+    //generate constructor
     public ProxyOferta(Oferta oferta) {
         this.oferta = oferta;
     }
