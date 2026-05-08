@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruAdapter/lucruAdapter.iml" filepath="$PROJECT_DIR$/Structurale/lucruAdapter/lucruAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruAdapter2/lucruAdapter2.iml" filepath="$PROJECT_DIR$/Structurale/lucruAdapter2/lucruAdapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruBuilder/lucruBuilder.iml" filepath="$PROJECT_DIR$/Creationale/lucruBuilder/lucruBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentale/lucruCOR/lucruCOR.iml" filepath="$PROJECT_DIR$/Comportamentale/lucruCOR/lucruCOR.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentale/lucruCommand/lucruCommand.iml" filepath="$PROJECT_DIR$/Comportamentale/lucruCommand/lucruCommand.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruComposite/lucruComposite.iml" filepath="$PROJECT_DIR$/Structurale/lucruComposite/lucruComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruDecorator/lucruDecorator.iml" filepath="$PROJECT_DIR$/Structurale/lucruDecorator/lucruDecorator.iml" />
