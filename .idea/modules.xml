@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruFactory/lucruFactory.iml" filepath="$PROJECT_DIR$/Creationale/lucruFactory/lucruFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruFlyweight/lucruFlyweight.iml" filepath="$PROJECT_DIR$/Structurale/lucruFlyweight/lucruFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentale/lucruObserver/lucruObserver.iml" filepath="$PROJECT_DIR$/Comportamentale/lucruObserver/lucruObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentale/lucruObserver2/lucruObserver2.iml" filepath="$PROJECT_DIR$/Comportamentale/lucruObserver2/lucruObserver2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruPrototype/lucruPrototype.iml" filepath="$PROJECT_DIR$/Creationale/lucruPrototype/lucruPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/lucruPrototype2/lucruPrototype2.iml" filepath="$PROJECT_DIR$/Creationale/lucruPrototype2/lucruPrototype2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/lucruProxy/lucruProxy.iml" filepath="$PROJECT_DIR$/Structurale/lucruProxy/lucruProxy.iml" />
